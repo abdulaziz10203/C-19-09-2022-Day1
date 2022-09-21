@@ -24,3 +24,7 @@ perfect numbers 2.cpp
 prime factors.cpp
 
 reverse word.cpp
+
+multiplication table.cpp
+
+sorted array.cpp
